@@ -1,0 +1,111 @@
+---
+title: "Gestion des références bibliographiques"
+author: "Dr Idrissa Ouedraogo"
+format: 
+    revealjs:
+        slide-number: true
+        show-slide-number: print
+        auto-slide: 5000
+        auto-slide-stoppable: false
+        loop: true
+        embed-resources: true
+logo: logouts.jpg
+css: styles.css
+footer: références bibliographiques
+preview-links: true
+backgroundcolor: "blue"
+---
+
+# Contenu de la formation
+
+::: {.incremental}
+
+-   Rappel sur la recherche bibliographique
+-   Outils de gestion de base bibliographique
+-   Cas de Zotero: 
+-       Installation-comptes-paramétrage
+-       Importer des éléments dans votre bibliothèque
+-       Organiser votre bibliothèque et prendre des notes
+-       Génération de bibliographies, de citations et de rapports
+-       Synchronisation, collaboration et sauvegarde
+-       Préférences Zotero
+-       Tirer le meilleur parti de Zotero
+
+:::
+
+# Rappel sur la recherche bibliographique
+
+# Outils de gestion de base bibliographique
+
+# Cas de Zotero
+
+[Télécharger Zotero](https://www.zotero.org/download)
+
+
+## Deux aspects essentiels {background="green"}
+### document
+#### document
+
+**knit**
+![](mendeley.png){fig-align="right" height="100"}
+
+## Slide 2
+
+::: {.incremental}
+
+-   Citations dans le corps du texte
+-   Liste des références bibliographiques
+
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Left column
+
+:::
+
+::: {.column width="50%"}
+Right column
+
+:::
+
+::::
+## Logiciels de gestion
+
+![](mendeley.jpg){fig-align="center" height="200"}
+
+Il existe différents logiciels pour gérer de manière automatique les références bibliographiques dans un document. 
+Cependant,  il faut comprendre comment cela fonctionne.
+
+::: {layout-ncol="2"}
+![](mendeley.png)
+
+![](zotero.png)
+:::
+
+## Choix du locigiel
+Le choix du logiciel dépend :
+
+- payant ou open source
+- système d'exploitation: Windows, Linux ou macOS
+
+## Quelques logiciels
+
+-   open source: JabRef, Mendeley, Zotero, Docear, WIKINDX, Bibfilex, KBibTex, Pybliographer, BibDesk (macOS)
+
+::: {layout-ncol="2"}
+![](D:/Rworkspace/Mendeley.png)
+
+:::
+
+::: footer
+Learn more: [Themes](https://quarto.org/docs/presentations/revealjs/themes.html)
+:::
+
+
+
+```{r}
+```
+
+---
